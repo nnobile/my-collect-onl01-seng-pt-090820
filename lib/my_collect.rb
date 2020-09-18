@@ -1,5 +1,3 @@
-list = ["Tim Jones", "Tom Smith", "Jim Campagno"]
-
 def my_collect(array)
   counter = 0
   new_array = []
