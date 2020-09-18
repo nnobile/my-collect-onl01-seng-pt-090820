@@ -7,4 +7,5 @@ def my_collect(array)
     new_array.push(array)
     counter += 1
   end
+  new_array
 end
